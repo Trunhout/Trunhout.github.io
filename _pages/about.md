@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "Xin chao"
 author_profile: true
